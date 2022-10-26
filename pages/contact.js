@@ -23,7 +23,7 @@ export default function Contact() {
           transition={{ delay: 0.5, duration: 0.5 }}
           className="text-6xl text-center lg:text-right lg:text-9xl"
         >
-          Let's Talk
+          Let&apos;s Talk
         </m.h1>
       </div>
       <div className="flex gap-40">
